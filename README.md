@@ -1,7 +1,5 @@
-<body style="background: black">
-<h1 align="center">👋 Hi, I’m Lucas Rocha</h1>
-<h3 align="center">I am a technology lover</h3>
-</br>
+![Tech Consultant business Banner (3)](https://user-images.githubusercontent.com/107315686/193731075-24c8ea75-2e26-4052-9241-2dbb3d768ae9.gif)
+
 
 <h6>🚀 Experience:</h6>
 <div>
